@@ -1,9 +1,6 @@
 import {
-  FaXTwitter,
-  FaGithub,
   FaLinkedin,
   FaFacebook,
-  FaDiscord,
   FaInstagram,
 } from "react-icons/fa6";
 
@@ -168,14 +165,14 @@ export const EDUCATION = [
     institution: "Maharaja Agrasen International College, Raipur",
     duration: "August 2021 - April 2024",
     description:
-      "Specialized in Human-Computer Interaction and Software Engineering. Completed a thesis on enhancing user experience in web applications through advanced interactive techniques. Participated in various projects involving frontend development, algorithms, and data structures. Graduated with honors.",
+      "A Bachelors in Commerce grad from Maharaja Agrasen International College, Raipur, turned social media maestro—crafting clicks and campaigns with finesse, blending freelancing flair and job-driven expertise like a creative cocktail!",
   },
   {
     degree: "Higher Secondary and Schooling",
     institution: "Adarsh Vidyalaya D.N., Raipur",
     duration: "July 2020 - April 2021",
     description:
-      "Focused on web development, programming languages, and database management. Actively involved in coding clubs and hackathons, where I developed several web applications using HTML, CSS, JavaScript, and PHP. Completed a senior project on developing an e-commerce platform. Graduated with a high GPA.",
+      "Graduated Higher Secondary from Adarsh Vidyalaya, Raipur, with a knack for social media wizardry—balancing freelance gigs and job clients while sprinkling creativity like confetti!",
   },
 ];
 
