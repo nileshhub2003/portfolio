@@ -89,8 +89,16 @@ export const PROJECTS = [
     name: "Catering Services",
     description:
       "Serving up flavorful social media videos that make catering services the talk of the town.",
-    image: projectImage6,
+    image: projectImage1,
     instagramLink: "https://www.instagram.com/reel/DAsWy-Ftfr2/",
+  },
+  {
+    id: 8,
+    name: "Automotive Showrooms",
+    description:
+      "Driving excitement with sleek social media videos that showcase automotive showrooms in style.",
+    image: projectImage2,
+    instagramLink: "https://www.instagram.com/reel/DEUu4qfS0hJ/",
   },
 ];
 
